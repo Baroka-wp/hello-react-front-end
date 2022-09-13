@@ -1,7 +1,6 @@
-
 import { createStore, applyMiddleware, combineReducers } from 'redux';
 import thunk from 'redux-thunk';
-import messageReducer, { getmessage } from './message/api.js';
+import messageReducer, { getmessage } from './message/api';
 
 const rootReducer = combineReducers({
   message: messageReducer,
