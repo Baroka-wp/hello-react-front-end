@@ -14,6 +14,8 @@
 - Linter
 - Figma
 
+## Back-end repo
+[https://github.com/Baroka-wp/hello-rails-back-end/](https://github.com/Baroka-wp/hello-rails-back-end/)
 
 ## Authors
 
@@ -23,16 +25,16 @@
 - Twitter: [IrotoriB](https://twitter.com/IrotoriB)
 - LinkedIn: [baroka](www.linkedin.com/in/baroka)
 
-👥 **Co Author : ADISA Hammed**
 
 ## Install
+
 ### Run the project in your local machine
 
 - Clone the repository
 ```
-  git clone https://github.com/Baroka-wp/react-book-store.git
+  git clone https://github.com/Baroka-wp/hello-react-front-end.git
 
-  cd Cubis
+  cd hello-react-front-end
 ```
 - install all dependances
 
@@ -45,7 +47,7 @@ npm install
 ```
 npm start
 ```
-- Open your browzer and go to [localhost:8080](http://localhost:8080/)
+- Open your browzer and go to [localhost:3000](http://localhost:3000/)
 
 
 ### Run Linters tests
